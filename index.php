@@ -15,7 +15,7 @@
 		<ul>
 			<li>Móveis de garrafa PET</li>
 			<li>Móveis de latinha de alumínio</li>
-			<li> blablabvla xoxoxo</li>
+			<li>Móveis de Madeira</li>
 		</ul>
 	</body>
 </html>
